@@ -1,10 +1,5 @@
 # My Project
 
 
-[Go to Introduction](#introduction)
+[Live Project Demo](https://prathmeshk9561.github.io/DemoWebApp/)
 
-## Introduction
-This is the introduction section.
-
-## Another Section
-This is another section of the README.
